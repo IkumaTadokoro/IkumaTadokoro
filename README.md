@@ -3,8 +3,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=IkumaTadokoro)
 
 ## About
-- Rails Beginner@Japan
-- FJORD BOOT CAMP
+- Programming Beginner@Japan
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
