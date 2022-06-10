@@ -3,7 +3,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=IkumaTadokoro)
 
 ## About
-- Programming Beginner@Japan
+- Software Engineer@Japan
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
